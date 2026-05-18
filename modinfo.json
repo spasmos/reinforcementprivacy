@@ -1,0 +1,19 @@
+﻿{
+  "type": "code",
+  "modid": "reinforcementprivacy",
+  "name": "ReinforcementPrivacy",
+  "side": "server",
+  "requiredOnClient": false,
+  "requiredOnServer": true,
+  "authors": [
+    "spasmos"
+  ],
+  "contributors": [
+    "SiiMeR"
+  ],
+  "description": "Server-side reinforcement privacy mod that anonymizes readable owner and group names in block reinforcement data.",
+  "version": "1.0.0",
+  "dependencies": {
+    "game": "1.22.0"
+  }
+}
